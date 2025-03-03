@@ -22,6 +22,6 @@ Let’s connect! You can reach me at:
 - **Email:** maksbuharskij16@gmail.com  
 - **Instagram** (https://www.instagram.com/maks_bukharskiy/)  
 
-### ⚡ Fun Fact  
-I once built a robot that can solve Rubik's cubes!  😄
-I am Chess GM(GrandMaster ) 😊
+⚡ Fun Fact  
+- I once built a robot that can solve Rubik's cubes! 😄
+- I am Chess GM(GrandMaster ) 😊
