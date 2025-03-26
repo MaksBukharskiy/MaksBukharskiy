@@ -4,7 +4,7 @@
 I’m a **Frontend Developer** passionate about building responsive, user-friendly, and high-performance web applications.  
 
 💻 Skills  
-- **Proficient in:** HTML, CSS, JavaScript, and React.js  
+- **Proficient in:** HTML, CSS, JavaScript, SCSS and React.js  
 - **Experienced in:** Version control with Git, modern build tools like Vite, and creating clean, maintainable code  
 - **Focused on:** Delivering exceptional user experiences and optimizing development workflows  
 
