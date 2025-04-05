@@ -1,18 +1,20 @@
-🚀Frontend Developer
+### 👋 Hi, I’m Maks Bukharskiy  
+**Frontend Developer** | React Enthusiast | Java Learner  
 
-👋 Hi, I’m @MaksBukharskiy  
-I’m a **Frontend Developer** passionate about building responsive, user-friendly, and high-performance web applications.  
+🚀 **About Me**  
+Passionate about building responsive, performant web apps with clean code.  
+Currently expanding my skillset to become a **full-stack developer** by learning **Java**.  
+Chess Grandmaster & Rubik's cube robot builder in my free time!  
 
-💻 Skills  
-- **Proficient in:** HTML, CSS, JavaScript, SCSS and React.js  
-- **Experienced in:** Version control with Git, modern build tools like Vite, and creating clean, maintainable code  
-- **Focused on:** Delivering exceptional user experiences and optimizing development workflows  
+💻 **Tech Stack**  
+- **Frontend**: HTML/CSS, JavaScript (ES6+), React, SCSS, Vite  
+- **Tools**: Git, Jest, Cypress  
+- **Currently Learning**: Java (Backend), Advanced React Patterns  
 
-🌱 Currently Learning  
-I’m always expanding my skill set and staying up-to-date with the latest trends in web development. Currently, I’m diving deeper into:  
-- Advanced React patterns  
-- Performance optimization techniques  
-- Testing frameworks like Jest and Cypress  
+🌱 **Goals**  
+- Master performance optimization  
+- Contribute to meaningful open-source projects  
+- Build full-stack apps with React + Java  
 
 💞️ Looking to Collaborate  
 I’m excited to collaborate on open-source projects or innovative web applications. If you’re working on something cool, feel free to reach out!  
