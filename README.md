@@ -1,6 +1,6 @@
-<img src="https://cubanvr.com/free-ai-image-generators-you-need/" alt="">
+### 👋 Hi, I’m Maks Bukharskiy
 
-### 👋 Hi, I’m Maks Bukharskiy  
+
 **Frontend Developer** | React Enthusiast | Java Learner  
 
 🚀 **About Me**  
