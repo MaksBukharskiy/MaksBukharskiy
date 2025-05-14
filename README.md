@@ -1,31 +1,37 @@
-### 👋 Hi, I’m Maks Bukharskiy
+👋 Hi, I’m Maks Bukharskiy
 
+Java Developer | Backend Enthusiast | React Developer
 
-**Frontend Developer** | React Enthusiast | Java Learner  
+🚀 About Me
+Passionate about software development with strong focus on Java ecosystem.
+Currently mastering Java Collections Framework and backend development.
+Chess Grandmaster & Rubik's cube robot builder in my free time!
 
-🚀 **About Me**  
-Passionate about building responsive, performant web apps with clean code.  
-Currently expanding my skillset to become a **full-stack developer** by learning **Java**.  
-Chess Grandmaster & Rubik's cube robot builder in my free time!  
+💻 Tech Stack
 
-💻 **Tech Stack**  
-- **Frontend**: HTML/CSS, JavaScript (ES6+), React, SCSS, Vite  
-- **Tools**: Git, Jest, Cypress  
-- **Currently Learning**: Java (Backend), Advanced React Patterns  
+    Core Java: Collections Framework, OOP, Stream API
+    Backend: Learning Spring Boot, Hibernate
+    Frontend: React (basic knowledge)
+    Tools: Git, Maven, JUnit
 
-🌱 **Goals**  
-- Master performance optimization  
-- Contribute to meaningful open-source projects  
-- Build full-stack apps with React + Java  
+🌱 Current Learning Focus
 
-💞️ Looking to Collaborate  
-I’m excited to collaborate on open-source projects or innovative web applications. If you’re working on something cool, feel free to reach out!  
+    Advanced Java Collections
+    Algorithms and Data Structures in Java
+    Spring Framework ecosystem
+    Building RESTful APIs
 
-📫 How to Reach Me  
-Let’s connect! You can reach me at:  
-- **Email:** maksbuharskij16@gmail.com  
-- **Instagram** (https://www.instagram.com/maks_bukharskiy/)  
+💞️ Looking to Collaborate
+I'm eager to contribute to Java-based open source projects or backend development initiatives.
 
-⚡ Fun Fact  
-- I once built a robot that can solve Rubik's cubes! 😄
-- I am Chess GM(GrandMaster ) 😊
+📫 How to Reach Me
+Let’s connect! You can reach me at:
+
+    Email: maksbuharskij16@gmail.com
+    Instagram: https://www.instagram.com/maks_bukharskiy/
+
+⚡ Fun Facts
+
+    Built a robot that solves Rubik's cubes
+    Chess GrandMaster (FIDE rated)
+    Passionate about algorithmic problem solving
