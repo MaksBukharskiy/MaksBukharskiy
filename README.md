@@ -1,4 +1,4 @@
-👋 Hi, I’m Maks Bukharskiy
+<h2 align='center'><samp><strong>👋 Hi, I’m Maks Bukharskiy</strong></samp></h2>
 
 *Java Developer* | *Backend Enthusiast* | *Frontend Learner*
 
