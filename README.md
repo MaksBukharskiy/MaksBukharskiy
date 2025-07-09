@@ -1,8 +1,9 @@
-<h2 align='center'><samp><strong>👋 Hi, I’m Maks Bukharskiy</strong></samp></h2>
+<h1 align="left">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> My name is Maks Bukharskiy</h1>
 
-*Java Developer* | *Backend Enthusiast* | *Frontend Learner*
+<h4>Java Developer | Backend Enthusiast | Frontend Learner</h4>
 
 🚀 *About Me*
+
 Passionate about software development with strong focus on Java ecosystem.
 Currently mastering *Java Collections Framework* and backend development.
 *Chess Grandmaster* & *Rubik's cube robot builder* in my free time!
@@ -11,7 +12,7 @@ Currently mastering *Java Collections Framework* and backend development.
 
 * *Core Java*: Collections Framework, OOP, Multitreading, Stream API
 * *Backend*: Learning Spring Boot, Hibernate, PostgerSQL
-* *Frontend*: React (basic knowledge), HTML, CSS, SCSS
+* *Frontend*: React (basic knowledge), HTML, CSS, SCSS, JS
 * *Tools*: Git, Maven
 
 🌱 *Current Learning Focus*
