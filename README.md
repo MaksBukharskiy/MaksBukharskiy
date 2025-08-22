@@ -1,40 +1,87 @@
-<h1 align="left">Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> My name is Maks Bukharskiy</h1>
+<br clear="both">
 
-<h3>Java Developer | Backend Enthusiast | Frontend Learner</h3>
+<div align="center">
+  <img height="400" width="800" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4f47e4813aa2aebbe240a2e9fc56d365d48df23394574129f1bbe230e54827cc.gif" />
+</div>
 
-<h2>🚀 About Me</h2>
+<h1 align="center">Hello <coder/> I'm Maks Bukharskiy!</h1>
 
-Passionate about software development with strong focus on Java ecosystem. <br>
-Currently mastering *Java Spring Boot* and backend development.<br>
-*Chess Grandmaster* & *Rubik's cube robot builder* in my free time!
+<h3 align="center">Java Developer | Backend Enthusiast | Frontend Learner</h3>
 
-<h2>💻 Tech Stack</h2>
+---
 
-* *Core Java*: Collections Framework, OOP, Multitreading, Stream API
-* *Backend*: Learning Spring Boot, Hibernate, PostgerSQL
-* *Frontend*: React (basic knowledge), HTML, CSS, SCSS, JS
-* *Tools*: Git, Maven
+### 👩‍💻 About Me
 
-<h2>🌱 Current Learning Focus</h2>
+<div align="center">
+  I am a Java developer with 2 years of experience in enterprise application development. <br>
+  My journey in IT began with learning Java and has since expanded to working with <br>
+  modern frameworks and tools such as Spring, React, PostgreSQL, and more.
+</div>
 
-* Advanced Multitreading
-* Building Telegram Bots
-* Algorithms and Data Structures in Java
-* Spring Framework ecosystem
-* Building RESTful APIs
+<div align="center">
+  🔭 Actively involved in developing and maintaining scalable enterprise applications. <br>
+  📚 Completed in-depth courses on Java Core, Spring Framework, and REST APIs. <br>
+  ⚡ Passionate about exploring new technologies to continuously improve my skills.
+</div>
 
-<h2>💞️ Looking to Collaborate</h2>
-<h4>I'm eager to contribute to Java-based open source projects or backend development initiatives.</h4>
+---
 
-<h2>📫 How to Reach Me</h2>
+### 💻 Tech Stack
 
-*Let's connect!*
+<div align="center">
+  
+| Category     | Technologies |
+|--------------|--------------|
+| **Core Java** | Collections, OOP, Multithreading, Stream API |
+| **Backend**   | Spring Boot, Hibernate, JPA, REST, PostgreSQL |
+| **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
+| **Tools**     | Git, Maven, IntelliJ IDEA, H2 |
 
-* Email: maksbuharskij16@gmail.com
-* Instagram: [@maks_bukharskiy](https://www.instagram.com/maks_bukharskiy/)
+</div>
 
-<h2>⚡ Fun Facts</h2>
+---
 
-* Built a robot that solves Rubik's cubes
-* Chess GrandMaster (FIDE rated)
-* Passionate about algorithmic problem solving
+### 🌱 Current Learning Focus
+
+<div align="center">
+  
+- Advanced Multithreading & Concurrency  
+- Building Telegram Bots with Java  
+- Algorithms & Data Structures in Java  
+- Deepening knowledge of Spring Ecosystem  
+- Designing and securing RESTful APIs  
+
+</div>
+
+---
+
+### 💞️ Looking to Collaborate
+
+<div align="center">
+  I'm eager to contribute to open-source Java projects <br>
+  and collaborate on backend development initiatives. <br>
+  Let’s build something great together! 🚀
+</div>
+
+---
+
+### 📫 How to Reach Me
+
+<div align="center">
+
+📧 <a href="mailto:maksbuharskij16@gmail.com">maksbuharskij16@gmail.com</a>  
+📸 <a href="https://www.instagram.com/maks_bukharskiy/">Instagram</a>
+
+</div>
+
+---
+
+### ⚡ Fun Facts
+
+<div align="center">
+  
+- 🤖 Built a robot that solves Rubik's cubes using computer vision  
+- ♟️ Chess Grandmaster (FIDE rated) — love strategy and logic  
+- 🔍 Passionate about algorithmic problem solving and coding challenges  
+
+</div>
