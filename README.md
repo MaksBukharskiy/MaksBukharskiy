@@ -12,24 +12,17 @@
 
 ### 👩‍💻 About Me
 
-<div align="center">
-  I am a Java developer with 2 years of experience in enterprise application development. <br>
-  My journey in IT began with learning Java and has since expanded to working with <br>
-  modern frameworks and tools such as Spring, React, PostgreSQL, and more.
-</div>
+I am a Java developer with 2 years of experience in enterprise application development.  
+My journey in IT began with learning Java and has since expanded to working with modern frameworks and tools such as Spring, React, PostgreSQL, and more.
 
-<div align="center">
-  🔭 Actively involved in developing and maintaining scalable enterprise applications. <br>
-  📚 Completed in-depth courses on Java Core, Spring Framework, and REST APIs. <br>
-  ⚡ Passionate about exploring new technologies to continuously improve my skills.
-</div>
+- 🔭 Actively involved in developing and maintaining scalable enterprise applications.  
+- 📚 Completed in-depth courses on Java Core, Spring Framework, and REST APIs.  
+- ⚡ Passionate about exploring new technologies to continuously improve my skills.
 
 ---
 
 ### 💻 Tech Stack
 
-<div align="center">
-  
 | Category     | Technologies |
 |--------------|--------------|
 | **Core Java** | Collections, OOP, Multithreading, Stream API |
@@ -37,51 +30,35 @@
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
 | **Tools**     | Git, Maven, IntelliJ IDEA, H2 |
 
-</div>
-
 ---
 
 ### 🌱 Current Learning Focus
 
-<div align="center">
-  
 - Advanced Multithreading & Concurrency  
 - Building Telegram Bots with Java  
 - Algorithms & Data Structures in Java  
 - Deepening knowledge of Spring Ecosystem  
 - Designing and securing RESTful APIs  
 
-</div>
-
 ---
 
 ### 💞️ Looking to Collaborate
 
-<div align="center">
-  I'm eager to contribute to open-source Java projects <br>
-  and collaborate on backend development initiatives. <br>
-  Let’s build something great together! 🚀
-</div>
+I'm eager to contribute to open-source Java projects  
+and collaborate on backend development initiatives.  
+Let’s build something great together! 🚀
 
 ---
 
 ### 📫 How to Reach Me
 
-<div align="center">
-
 📧 <a href="mailto:maksbuharskij16@gmail.com">maksbuharskij16@gmail.com</a>  
 📸 <a href="https://www.instagram.com/maks_bukharskiy/">Instagram</a>
-
-</div>
 
 ---
 
 ### ⚡ Fun Facts
 
-<div align="center">
-  
-- 🤖 Built a robot that solves Rubik's cubes using computer vision  
-- ♟️ Chess Grandmaster (FIDE rated) — love strategy and logic  
-- 🔍 Passionate about algorithmic problem solving and coding challenges  
-
-</div>
+🤖 Built a robot that solves Rubik's cubes using computer vision  
+♟️ Chess Grandmaster (FIDE rated) — love strategy and logic  
+🔍 Passionate about algorithmic problem solving and coding challenges  
