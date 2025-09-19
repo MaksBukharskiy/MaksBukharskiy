@@ -26,7 +26,7 @@ My journey in IT began with learning Java and has since expanded to working with
 | Category     | Technologies |
 |--------------|--------------|
 | **Core Java** | Collections, OOP, Multithreading, Stream API |
-| **Backend**   | Spring Boot, Hibernate, JPA, REST, PostgreSQL |
+| **Backend**   | Spring Boot, Hibernate, JPA, REST, MVC, PostgreSQL |
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
 | **Tools**     | Git, Maven, IntelliJ IDEA, H2 |
 
