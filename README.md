@@ -26,9 +26,9 @@ My journey in IT began with learning Java and has since expanded to working with
 | Category     | Technologies |
 |--------------|--------------|
 | **Core Java** | Collections, OOP, Multithreading, Stream API |
-| **Backend**   | Spring Boot, Hibernate, JPA, REST, MVC, PostgreSQL |
+| **Backend**   | Spring Boot, Spring Data JPA, REST, MVC |
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
-| **Tools**     | Git, Maven, IntelliJ IDEA, H2 |
+| **Tools**     | Git, Maven, IntelliJ IDEA, Postman, PostgreSQL, H2 |
 
 ---
 
@@ -61,4 +61,4 @@ Let’s build something great together! 🚀
 
 🤖 Built a robot that solves Rubik's cubes using computer vision  
 ♟️ Chess Grandmaster (FIDE rated) — love strategy and logic  
-🔍 Passionate about algorithmic problem solving and coding challenges  
+🔍 Passionate about algorithmic problem solving and coding challenges
