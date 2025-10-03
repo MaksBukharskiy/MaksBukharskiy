@@ -26,16 +26,16 @@ My journey in IT began with learning Java and has since expanded to working with
 | Category     | Technologies |
 |--------------|--------------|
 | **Core Java** | Collections, OOP, Multithreading, Stream API |
-| **Backend**   | Spring Boot, Spring Data JPA, REST, MVC |
+| **Backend**   | Spring Boot, Spring Data JPA, REST, MVC, Secutity |
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
-| **Tools**     | Git, Maven, IntelliJ IDEA, Postman, PostgreSQL, H2 |
+| **Tools**     | Git, Maven, Gradle, IntelliJ IDEA, Postman, PostgreSQL, H2 |
 
 ---
 
 ### 🌱 Current Learning Focus
 
-- Advanced Multithreading & Concurrency  
-- Building Telegram Bots with Java  
+- Advanced REST & Security  
+- Building Web Services useing Spring Boot  
 - Algorithms & Data Structures in Java  
 - Deepening knowledge of Spring Ecosystem  
 - Designing and securing RESTful APIs  
