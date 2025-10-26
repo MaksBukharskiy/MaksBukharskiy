@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="800" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/4f47e4813aa2aebbe240a2e9fc56d365d48df23394574129f1bbe230e54827cc.gif" />
+  <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVwbXd4eGl6N2M0OXJpMG9iNGI5YnZndTB0dm4xNzR3ZGlidW9leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9tZc9Mzo9K0yOYx38U/giphy.gif" />
 </div>
 
 <h1 align="center">Hello <coder/> I'm Maks Bukharskiy!</h1>
@@ -29,6 +29,7 @@ My journey in IT began with learning Java and has since expanded to working with
 | **Backend**   | Spring Boot, Spring Data JPA, REST, MVC, Secutity |
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
 | **Tools**     | Git, Maven, Gradle, IntelliJ IDEA, Postman, PostgreSQL, H2 |
+| **Testing**     | JUnit, Mockito |
 
 ---
 
