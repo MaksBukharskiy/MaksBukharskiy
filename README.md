@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVwbXd4eGl6N2M0OXJpMG9iNGI5YnZndTB0dm4xNzR3ZGlidW9leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9tZc9Mzo9K0yOYx38U/giphy.gif" />
+  <img height="400" width="800" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhtYXI1aXR3MWJiaTIzMGZncHF1YWF2aWcxenJnbWp6MGFvbW15dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UX4U37Y9mdz3BXNbcA/giphy.gif"/>
 </div>
 
 <h1 align="center">Hello <coder/> I'm Maks Bukharskiy!</h1>
