@@ -30,8 +30,8 @@ My journey in IT began with learning Java and has since expanded to working with
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
 | **Tools**     | Git, Maven, Gradle, IntelliJ IDEA, Postman |
 | **Databases** | PostgreSQL, MySQL, H2 |
+| **DevOps**    | Docker, Kafka (basics) |
 | **Testing**   | JUnit, Mockito |
-| **DevOps**    | Docker |
 
 ---
 
