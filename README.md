@@ -32,6 +32,7 @@ My journey in IT began with learning Java and has since expanded to working with
 | **Databases** | PostgreSQL, MySQL, H2 |
 | **Testing**   | JUnit, Mockito, Swagger |
 | **DevOps**    | Docker, Kafka (basics) |
+| **AI**    | n8n, cursor |
 
 ---
 
