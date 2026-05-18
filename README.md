@@ -30,8 +30,8 @@ My journey in IT began with learning Java and has since expanded to working with
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
 | **Databases** | PostgreSQL, MySQL, H2 |
 | **Testing**   | JUnit, Mockito, Swagger |
-| **DevOps**    | Docker, Kafka (basics), RabbitMQ |
-| **AI**    | n8n, cursor |
+| **DevOps**    | Docker, Kafka, RabbitMQ |
+| **AI**    | n8n, cursor, codex |
 
 ---
 
@@ -47,7 +47,7 @@ My journey in IT began with learning Java and has since expanded to working with
 
 ### 📌 Open to
 
-- Junior Java Backend positions
+- Junior+ Java Backend positions
 - Internship opportunities
 - Backend-heavy projects
 
