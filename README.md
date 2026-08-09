@@ -24,12 +24,12 @@ My journey in IT began with learning Java and has since expanded to working with
 
 | Category     | Technologies |
 |--------------|--------------|
-| **Core Java** | Collections, OOP, Multithreading, Stream API |
 | **Backend**   | Spring Boot, Spring Data JPA, REST, MVC, Security |
 | **Tools**     | Git, Maven, Gradle, IntelliJ IDEA, Postman, Figma |
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
+| **Core Java** |Collections, OOP, Multithreading, Stream API |
+| **Testing**   | JUnit, Mockito, Testcontainers, Swagger |
 | **Databases** | Redis (basic), PostgreSQL, MySQL, H2 |
-| **Testing**   | JUnit, Mockito, Swagger |
 | **DevOps**    | Docker, Kafka, RabbitMQ |
 | **AI**    | n8n, cursor, codex |
 
