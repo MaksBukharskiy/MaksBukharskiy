@@ -24,7 +24,7 @@ My journey in IT began with learning Java and has since expanded to working with
 
 | Category     | Technologies |
 |--------------|--------------|
-| **Backend**   | Spring Boot, Spring Data JPA, REST, MVC, Security |
+| **Backend**   | Java, C(algo), Python(algo), Spring Boot, Spring Data JPA, REST, MVC, Security |
 | **Tools**     | Git, Maven, Gradle, IntelliJ IDEA, Postman, Figma |
 | **Frontend**  | React (basic), HTML, CSS, SCSS, JavaScript |
 | **Core Java** |Collections, OOP, Multithreading, Stream API |
